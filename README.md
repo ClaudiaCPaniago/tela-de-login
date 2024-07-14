@@ -1,14 +1,15 @@
 # Tela de Login 
 
-Construí essa tela de login com o auxílio de um tutorial no Youtube para praticar meus conhecimentos em HTML e CSS.
+Elaborei esta tela de login seguindo um tutorial do YouTube, visando fortalecer minhas habilidades em HTML e CSS. Além disso, implementei uma funcionalidade em JavaScript para exibir a senha através de um ícone, aprimorando a usabilidade da interface.
 
+![preview](/assets/img/desktop.jpg)
 
 ## 🛠️ Tecnologias
 
 - HTML
 - CSS
 - JAVASCRIPT
+  
+## ❤️ Contato
 
-## 💛 Contato
-
-claudiacostapaniago@ggmail.com
+claudiacostapaniago@gmail.com
